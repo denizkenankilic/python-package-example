@@ -12,8 +12,9 @@ The Folder Structure for the Python Package Example
       └── setup.py
       └── src/
         └── example_folder_1/
-            └── __init__.py
-            └── example.py/
+            └── example_folder_2/
+                └── __init__.py
+                └── example.py/
       └── tests/
           └── __init__.py
           └── example_test.py/
