@@ -1,5 +1,5 @@
 # python-package-example
-The Folder Structure for the Python Package Example
+Structure of Folders for the Python Package Example
 
     └── python-packaging-tutorial/
       └── LICENSE
